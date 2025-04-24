@@ -1,6 +1,10 @@
 # 🧠 Avalista
 
-**Avalista** vem de **avaliação** e de **lista** — inspirada na Lista Eureca 2024 —, mas também é um jogo de palavras: não somos apenas avaliadores, somos **analistas**. Como estudantes de Análise e Desenvolvimento de Sistemas, somos **analistas de interfaces**, refletindo, avaliando e propondo melhorias significativas para experiências mais humanas.
+**Avalista** é uma palavra que nasce da fusão de **avaliação** com **lista**, fazendo referência direta à **Lista Eureca 2024**, que serve de base para o nosso projeto. Mas ela vai além.
+
+Em vez de "avaliador", queremos propor um novo papel: o de **analista** — alguém que **avalia com método**, **interpreta dados** e **propõe melhorias conscientes**. Como estudantes de **Análise e Desenvolvimento de Sistemas**, nos reconhecemos nesse papel. Assim, surge o **Avalista**: a pessoa que analisa interfaces com base em critérios heurísticos e transforma avaliações em ações.
+
+Nossa missão é criar uma ferramenta que transforme a avaliação de interfaces em um **processo acessível, educativo e motivador** para todos.
 
 ---
 
@@ -16,7 +20,7 @@
 
 ## 🎯 Objetivo do Projeto
 
-Criar uma plataforma que **facilite e automatize a avaliação heurística de interfaces**, principalmente para estudantes de tecnologia com perfil back-end e full-stack, promovendo:
+Criar uma plataforma que **facilite e automatize a avaliação heurística de interfaces**, principalmente para estudantes de tecnologia, promovendo:
 
 - Análise estruturada e recorrente.
 - Métricas e relatórios visuais.
@@ -44,8 +48,6 @@ Criar uma plataforma que **facilite e automatize a avaliação heurística de in
 | 🖥️ **Front-end**      | React                    |
 | ⚙️ **Back-end**       | Node.js                  |
 | 📽️ **Apresentações**  | Canva                    |
-
-
 
 
 
