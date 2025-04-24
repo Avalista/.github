@@ -10,11 +10,9 @@ Nossa missão é criar uma ferramenta que transforme a avaliação de interfaces
 
 ## 📂 Documentos Importantes
 
-- [Google Drive](https://drive.google.com/file/d/1PvxVZ-weS3PU3-tLtysqB7DXW5xa92tz/view?usp=drive_link)
+- [Lista Eureca](https://drive.google.com/file/d/1PvxVZ-weS3PU3-tLtysqB7DXW5xa92tz/view?usp=drive_link)
 - [Figma](https://www.figma.com/design/Wcncub7ZZg34kfPFG6tfm9/TCC?node-id=0-1&p=f&t=jTjpiUZDmCzo2VnZ-0)
 - [Canva](https://www.canva.com/design/DAGlXJWSt5I/T3dNM4BEZnevM9vd8WdJTQ/edit)
-- [Pesquisa no Notion](https://www.notion.so/Pesquisa-1d71d583051e80ad817ce1561c9ff0e0?pvs=21)
-- [Questionários](https://www.notion.so/Question-rios-1d71d583051e80f0b4c8dd42a277bb48?pvs=21)
 
 ---
 
