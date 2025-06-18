@@ -11,6 +11,7 @@ Nossa missão é criar uma ferramenta que transforme a avaliação de interfaces
 ## 📂 Documentos Importantes
 
 - [Lista Eureca](https://drive.google.com/file/d/1PvxVZ-weS3PU3-tLtysqB7DXW5xa92tz/view?usp=drive_link)
+- [Notion](https://www.notion.so/AVALISTA-1d61d583051e80fb942bfa5b19a8a5ee)
 - [Figma](https://www.figma.com/design/Gkpj59r9DEQe7r79tURpF2/TCC?node-id=0-1&t=PbfMsKrGUD1Ghnk4-1)
 - [Canva](https://www.canva.com/design/DAGmntxZHjE/vlkOuH_MvZnSOVu7AvvlxA/edit?utm_content=DAGmntxZHjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
