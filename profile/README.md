@@ -79,7 +79,7 @@ A identidade visual do **Avalista** é mutante, adaptando-se a diferentes contex
 | Confiança      | `#4C85C7`      | `#C7E2FF`    | `--color-trust-primary`           | `--color-trust-pastel`           |
 | Disrupção      | `#9C1DFF`      | `#D9D2E9`    | `--color-disrupt-primary`         | `--color-disrupt-pastel`         |
 
-> 💡 **Dica:** Essas variáveis devem estar definidas no seu arquivo de tema global (`:root` ou `theme.css`) para fácil reutilização em componentes.
+> 💡 **Dica:** Essas variáveis estão definidas arquivo de tema global (`:root` - `style.css`) para fácil reutilização em componentes.
 
 ## 📖 Fundamentos
 
