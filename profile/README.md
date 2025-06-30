@@ -7,7 +7,7 @@
 
 **Avalista** é uma palavra que que nasce da fusão de **avaliação** com **lista**, fazendo referência direta à **Lista Eureca 2024**, que serve de base para o nosso projeto. Mas ela vai além.
 
-Em vez de "avaliador", queremos propor um novo papel: o de **analista** — alguém que **avalia com método**, **interpreta dados** e **propõe melhorias conscientes**. Como estudantes de **Análise e Desenvolvimento de Sistemas**, nos reconhecemos nesse papel. Assim, surge o **Avalista**: a pessoa que analisa interfaces com base em critérios heurísticos e transforma avaliações em ações.
+Em vez de "avaliador", queremos propor um novo papel: o de **analista**: alguém que **avalia com método**, **interpreta dados** e **propõe melhorias conscientes**. Como estudantes de **Análise e Desenvolvimento de Sistemas**, nos reconhecemos nesse papel. Assim, surge o **Avalista**: a pessoa que analisa interfaces com base em critérios heurísticos e transforma avaliações em ações.
 
 Nossa missão é criar uma ferramenta que transforme a avaliação de interfaces em um **processo acessível, educativo e motivador** para todos.
 
