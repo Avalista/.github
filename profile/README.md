@@ -77,4 +77,36 @@ A identidade visual do **Avalista** é mutante, adaptando-se a diferentes contex
 
 > 💡 **Dica:** Essas variáveis devem estar definidas no seu arquivo de tema global (`:root` ou `theme.css`) para fácil reutilização em componentes.
 
+## 📖 Fundamentos
+
+A aplicação está fundamentada nos seguintes pilares:
+
+* **Heurísticas de usabilidade** como base metodológica.
+* **Experiência do usuário (UX)** como eixo de melhoria de sistemas.
+* **Tecnologias acessíveis** para desenvolvimento e expansão.
+* **Educação crítica** como motor para formação de bons analistas.
+
 ---
+
+## 💼 Time
+
+O Avalista é um projeto desenvolvido por estudantes do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRN:
+
+* **Radmila Gama**
+* **Ramon Vieira**
+
+Com orientação das professoras:
+
+* **Silvia Matos**
+* **Marília Freire**
+
+---
+
+## 🎓 Licença
+
+Este projeto é de cunho acadêmico e foi desenvolvido no contexto de Trabalho de Conclusão de Curso. Distribuição livre para fins educacionais.
+
+---
+
+Se você chegou até aqui: parabéns, você já é meio Avalista. 🚀
+
