@@ -1,5 +1,9 @@
 
-# 🧠 Avalista
+<p align="center">
+  <img src="03.svg" alt="Logo Avalista" width="80"/>
+</p>
+
+# Avalista
 
 **Avalista** é uma palavra que que nasce da fusão de **avaliação** com **lista**, fazendo referência direta à **Lista Eureca 2024**, que serve de base para o nosso projeto. Mas ela vai além.
 
