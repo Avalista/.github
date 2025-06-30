@@ -1,95 +1,80 @@
+
 # 🧠 Avalista
 
-**Avalista** nasce da fusão entre **avaliação** e **lista**, fazendo referência direta à **Lista Eureca 2024**, que fundamenta o projeto. Mas o conceito vai além disso.
+**Avalista** é uma palavra que que nasce da fusão de **avaliação** com **lista**, fazendo referência direta à **Lista Eureca 2024**, que serve de base para o nosso projeto. Mas ela vai além.
 
-Mais do que "avaliador", propomos um novo papel: o de **analista** — uma pessoa que **avalia com método**, **interpreta dados** e **propõe melhorias conscientes**. Como estudantes de **Análise e Desenvolvimento de Sistemas**, nos identificamos com esse papel. Assim surge o **Avalista**: quem analisa interfaces com base em critérios heurísticos e transforma diagnósticos em ações.
+Em vez de "avaliador", queremos propor um novo papel: o de **analista** — alguém que **avalia com método**, **interpreta dados** e **propõe melhorias conscientes**. Como estudantes de **Análise e Desenvolvimento de Sistemas**, nos reconhecemos nesse papel. Assim, surge o **Avalista**: a pessoa que analisa interfaces com base em critérios heurísticos e transforma avaliações em ações.
 
-Nossa missão é tornar a avaliação de interfaces um **processo acessível, educativo e motivador** para todos.
+Nossa missão é criar uma ferramenta que transforme a avaliação de interfaces em um **processo acessível, educativo e motivador** para todos.
 
 ---
 
 ## 📂 Documentos Importantes
 
-* [Lista Eureca 2024](https://drive.google.com/file/d/1PvxVZ-weS3PU3-tLtysqB7DXW5xa92tz/view?usp=drive_link)
-* [Organização e cronograma no Notion](https://www.notion.so/AVALISTA-1d61d583051e80fb942bfa5b19a8a5ee)
-* [Protótipos no Figma](https://www.figma.com/design/Gkpj59r9DEQe7r79tURpF2/TCC?node-id=0-1&t=PbfMsKrGUD1Ghnk4-1)
-* [Apresentação no Canva](https://www.canva.com/design/DAGmntxZHjE/vlkOuH_MvZnSOVu7AvvlxA/edit?utm_content=DAGmntxZHjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Lista Eureca](https://drive.google.com/file/d/1PvxVZ-weS3PU3-tLtysqB7DXW5xa92tz/view?usp=drive_link)
+- [Notion](https://www.notion.so/AVALISTA-1d61d583051e80fb942bfa5b19a8a5ee)
+- [Figma](https://www.figma.com/design/Gkpj59r9DEQe7r79tURpF2/TCC?node-id=0-1&t=PbfMsKrGUD1Ghnk4-1)
+- [Canva](https://www.canva.com/design/DAGmntxZHjE/vlkOuH_MvZnSOVu7AvvlxA/edit?utm_content=DAGmntxZHjE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
-## 🎯 Objetivo Geral
+## 🎯 Objetivo do Projeto
 
-Desenvolver uma plataforma que **facilite e automatize a avaliação heurística de interfaces**, com foco em estudantes de tecnologia, promovendo:
+Criar uma plataforma que **facilite e automatize a avaliação heurística de interfaces**, principalmente para estudantes de tecnologia, promovendo:
 
-* Avaliação estruturada e recorrente;
-* Relatórios visuais e métricas objetivas;
-* Recompensas para incentivar a continuidade;
-* Um ambiente de **aprendizado orientado por dados**.
-
----
-
-## 🧰 Problemas Identificados
-
-* Ausência de sistematização nas avaliações heurísticas;
-* Resistência entre estudantes e profissionais da área técnica;
-* Pouco conhecimento sobre as heurísticas aplicadas;
-* Dificuldade em transformar avaliações em melhorias tangíveis.
+- Análise estruturada e recorrente.
+- Métricas e relatórios visuais.
+- Recompensas e gamificação para incentivar o uso.
+- Um espaço de **aprendizagem**, e não apenas de gerar relatórios.
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+## 🧩 Desafios Enfrentados
 
-| Categoria            | Tecnologias              |
-| -------------------- | ------------------------ |
-| 🧰 **Modelagem**     | Astah                    |
-| 🎨 **Design**        | Figma                    |
-| 💻 **Front-end**     | React, Vite, TypeScript  |
-| ⚙️ **Back-end**      | Node.js, Express, Prisma |
-| 🎥 **Apresentações** | Canva                    |
+- Falta de sistematização nas avaliações.
+- Resistência à prática entre devs.
+- Falta de clareza nas heurísticas aplicadas.
+- Dificuldade de transformar avaliações em ações práticas.
 
 ---
 
-## 🔎 Narrativa do Projeto
+## 🛠️ Tecnologias Utilizadas
 
-### 💔 Problema
-
-> A avaliação heurística é uma etapa muitas vezes negligenciada, principalmente por estudantes de tecnologia. Há resistência, falta de conhecimento metodológico e escassez de ferramentas que transformem dados em ações.
-
-### 🚀 Solução
-
-> O Avalista surge como uma ferramenta educacional e funcional que estrutura o processo de avaliação, orienta o usuário com base em listas como a Eureca e transforma feedbacks em dados analisáveis. É um meio de aprendizado ativo e autônomo.
-
----
-
-## 📖 Fundamentos
-
-A aplicação está fundamentada nos seguintes pilares:
-
-* **Heurísticas de usabilidade** como base metodológica.
-* **Experiência do usuário (UX)** como eixo de melhoria de sistemas.
-* **Tecnologias acessíveis** para desenvolvimento e expansão.
-* **Educação crítica** como motor para formação de bons analistas.
+| 🧩 Categoria         | 🚀 Tecnologias           |
+|----------------------|--------------------------|
+| 🧱 **Modelagem**      | Astah                    |
+| 🎨 **Design**         | Figma                    |
+| 🖥️ **Front-end**      | React                    |
+| ⚙️ **Back-end**       | Node.js                  |
+| 📽️ **Apresentações**  | Canva                    |
 
 ---
 
-## 💼 Time
+## 💡 Narrativa do Projeto
 
-O Avalista é um projeto desenvolvido por estudantes do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRN:
+### Problema:
+> A avaliação de interfaces ainda é uma etapa negligenciada, especialmente por alunos com foco técnico. Há dificuldade, resistência e falta de métricas claras. 
 
-* **Radmila Gama**
-* **Ramon Vieira**
-
-Com orientação das professoras:
-
-* **Silvia Matos**
-* **Marília Freire**
+### Solução:
+> Uma plataforma que transforme a avaliação heurística em um processo acessível, educativo e gamificado, com foco em autonomia, aprendizado e impacto visual.
 
 ---
 
-## 🎓 Licença
+## 🎨 Guia de Cores - Avalista
 
-Este projeto é de cunho acadêmico e foi desenvolvido no contexto de Trabalho de Conclusão de Curso. Distribuição livre para fins educacionais.
+A identidade visual do **Avalista** é mutante, adaptando-se a diferentes contextos e humores. Cada tema possui uma cor **primária** (vibrante) e uma cor **pastel** (secundária/suporte). Essa abordagem permite personalizações visuais coerentes com o tipo de feedback ou a etapa do processo de avaliação.
+
+| 🎭 Nome do Tema | 🎯 Cor Primária | 🌸 Cor Pastel | 🎨 Variável CSS (Primária)        | 🎨 Variável CSS (Pastel)         |
+|----------------|----------------|--------------|-----------------------------------|----------------------------------|
+| Insight        | `#070248`      | `#CECDFF`    | `--color-insight-primary`         | `--color-insight-pastel`         |
+| Clareza        | `#36A08E`      | `#D5FFF9`    | `--color-clarity-primary`         | `--color-clarity-pastel`         |
+| Crescimento    | `#4DAA00`      | `#E1FCCF`    | `--color-growth-primary`          | `--color-growth-pastel`          |
+| Inovação       | `#D57C19`      | `#FFE6C5`    | `--color-innovation-primary`      | `--color-innovation-pastel`      |
+| Crítico        | `#C61819`      | `#FFD4D4`    | `--color-critical-primary`        | `--color-critical-pastel`        |
+| Criatividade   | `#782A53`      | `#FBDAEC`    | `--color-creative-primary`        | `--color-creative-pastel`        |
+| Confiança      | `#4C85C7`      | `#C7E2FF`    | `--color-trust-primary`           | `--color-trust-pastel`           |
+| Disrupção      | `#9C1DFF`      | `#D9D2E9`    | `--color-disrupt-primary`         | `--color-disrupt-pastel`         |
+
+> 💡 **Dica:** Essas variáveis devem estar definidas no seu arquivo de tema global (`:root` ou `theme.css`) para fácil reutilização em componentes.
 
 ---
-
-Se você chegou até aqui: parabéns, você já é meio Avalista. 🚀
