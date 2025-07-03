@@ -100,10 +100,11 @@ O Avalista é um projeto desenvolvido por estudantes do curso de Tecnologia em A
 * **Radmila Gama**
 * **Ramon Vieira**
 
-Com orientação das professoras:
+Com orientação dos professores:
 
 * **Silvia Matos**
 * **Marília Freire**
+* **André Duarte**
 
 ---
 
