@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="03.svg" alt="Logo Avalista" width="80"/>
+  <img src="03.svg" alt="Ícone Avalista - 03" width="80"/>
 </p>
 
 # Avalista
