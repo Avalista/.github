@@ -43,13 +43,13 @@ Criar uma plataforma que **facilite e automatize a avaliação heurística de in
 
 ## 🛠️ Tecnologias Utilizadas
 
-| 🧩 Categoria          | 🚀 Tecnologias |
-| --------------------- | -------------- |
-| 🧱 **Modelagem**      | Astah          |
-| 🎨 **Design**         | Figma          |
-| 🖥️ **Front-end**     | React          |
-| ⚙️ **Back-end**       | Node.js        |
-| 📽️ **Apresentações** | Canva          |
+| 🧩 Categoria | 🚀 Tecnologias |
+| :--- | :--- |
+| 🧱 **Modelagem** | Astah |
+| 🎨 **Design** | Figma |
+| 🖥️ **Front-end** | React |
+| ⚙️ **Back-end** | Node.js |
+| 📽️ **Apresentações** | Canva |
 
 ---
 
@@ -67,18 +67,18 @@ Criar uma plataforma que **facilite e automatize a avaliação heurística de in
 
 ## 🎨 Guia de Cores - Avalista
 
-A identidade visual do **Avalista** é mutante, adaptando-se a diferentes contextos e humores. Cada tema possui uma cor **primária** (vibrante) e uma cor **pastel** (secundária/suporte). Essa abordagem permite personalizações visuais coerentes com o tipo de feedback ou a etapa do processo de avaliação.
+A identidade visual do **Avalista** é mutante, adaptando-se a diferentes contextos e humores. Cada tema possui uma cor **primária** (vibrante) e uma cor **secundária** (suporte). Essa abordagem permite personalizações visuais coerentes com o tipo de feedback ou a etapa do processo de avaliação.
 
-| 🎭 Categoria                           | 🎯 Cor Primária | 🌸 Cor Pastel | 🎨 Variável CSS (Primária) | 🎨 Variável CSS (Pastel) |
-| --------------------------------------- | --------------- | ------------- | -------------------------- | ------------------------ |
-| Aspectos Funcionais (AF)                | `#070248`       | `#CECDFF`     | `--color-af-primary`       | `--color-af-pastel`      |
-| Comunicação (CO)                        | `#36A08E`       | `#D5FFF9`     | `--color-co-primary`       | `--color-co-pastel`      |
-| Formatação (FM)                         | `#4DAA00`       | `#E1FCCF`     | `--color-fm-primary`       | `--color-fm-pastel`      |
-| Navegação (NA)                          | `#D57C19`       | `#FFE6C5`     | `--color-na-primary`       | `--color-na-pastel`      |
-| Particularidades do Usuário (PU)        | `#C61819`       | `#FFD4D4`     | `--color-pu-primary`       | `--color-pu-pastel`      |
-| Particularidades do Dispositivo (PD)    | `#782A53`       | `#FBDAEC`     | `--color-pd-primary`       | `--color-pd-pastel`      |
-| Acessibilidade (AC)                     | `#4C85C7`       | `#C7E2FF`     | `--color-ac-primary`       | `--color-ac-pastel`      |
-| Privacidade e Segurança de Dados (LGPD) | `#9C1DFF`       | `#D9D2E9`     | `--color-lgpd-primary`     | `--color-lgpd-pastel`    |
+| 🎭 Categoria | 🎯 Cor Primária | 🌸 Cor Secundária | 🎨 Variável CSS (Primária) | 🎨 Variável CSS (Secundária) |
+| :--- | :--- | :--- | :--- | :--- |
+| Aspectos Funcionais (AF) | `#070248` | `#CECDFF` | `--color-af-primary` | `--color-af-secondary` |
+| Comunicação (CO) | `#36A08E` | `#D5FFF9` | `--color-co-primary` | `--color-co-secondary` |
+| Formatação (FM) | `#4DAA00` | `#E1FCCF` | `--color-fm-primary` | `--color-fm-secondary` |
+| Navegação (NA) | `#D57C19` | `#FFE6C5` | `--color-na-primary` | `--color-na-secondary` |
+| Particularidades do Usuário (PU) | `#C61819` | `#FFD4D4` | `--color-pu-primary` | `--color-pu-secondary` |
+| Particularidades do Dispositivo (PD)| `#782A53` | `#FBDAEC` | `--color-pd-primary` | `--color-pd-secondary` |
+| Acessibilidade (AC) | `#4C85C7` | `#C7E2FF` | `--color-ac-primary` | `--color-ac-secondary` |
+| Privacidade e Segurança de Dados (LGPD)| `#9C1DFF` | `#D9D2E9` | `--color-lgpd-primary` | `--color-lgpd-secondary` |
 
 > 💡 **Dica:** Essas variáveis estão definidas no arquivo de tema global (`:root` - `style.css`) para fácil reutilização em componentes.
 
